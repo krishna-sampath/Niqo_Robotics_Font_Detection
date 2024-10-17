@@ -34,7 +34,7 @@ This project demonstrates how to train an object detection model from scratch to
 ```
 .
 ├── fonts/                   # Directory containing .ttf font files
-├── Font_Detection.ipynb     # Jupyter Notebook containing all code
+├── Niqo_Robotics_Font_Detection.ipynb     # Jupyter Notebook containing all code
 └── README.md                # Instructions and documentation (this file)
 ```
 
@@ -93,7 +93,7 @@ Launch Jupyter Notebook or JupyterLab:
 jupyter notebook  # or jupyter lab
 ```
 
-Open the `Font_Detection.ipynb` notebook.
+Open the `Niqo_Robotics_Font_Detection.ipynb` notebook.
 
 #### 3. Run Data Generation Cells
 
