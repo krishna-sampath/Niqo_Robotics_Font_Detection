@@ -1,6 +1,6 @@
-# Font Detection and Classification using PyTorch
+# Font Detection and Classification
 
-This project demonstrates how to train an object detection model from scratch using PyTorch to detect instances of "Hello, World!" in images and classify the font used. The code is contained in a Jupyter Notebook and uses custom-generated data.
+This project demonstrates how to train an object detection model from scratch to detect instances of "Hello, World!" in images and classify the font used. The code is contained in a Jupyter Notebook and uses custom-generated data.
 
 ---
 
@@ -45,8 +45,7 @@ This project demonstrates how to train an object detection model from scratch us
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/font-detection-pytorch.git
-cd font-detection-pytorch
+git clone https://github.com/krishna-sampath/Niqo_Robotics_Font_Detection.git
 ```
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
